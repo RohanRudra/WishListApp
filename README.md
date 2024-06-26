@@ -1,31 +1,39 @@
+# Wish List App
 
-# Chat Room App
-
-The ChatRoomApp is a real-time messaging application developed in Kotlin & Jetpack Compose. It supports User Authentication and multiple chat rooms, ensuring scalability & optimization.
-
-
+Wish List App is a Wish list / To-Do List App build using Kotlin & Jetpack Compose.
 
 
 ## Features
 
-- Create a Public ChatRoom
-- Can join any ChatRoom
-- User Authentication
+- Create Wish / Task with Title & Description
+- Update the wish anytime
+- Search in the list
+- Swipe to Delete
 
 
 ## Tech Stack
 
-**Client:** Kotlin
-
-**Server:** Firebase Firestore, Firebase Authentication
+- Kotlin
+- Room Database
+- Jetpack Compose
 
 
 ## Screenshots
 
-![Home Page](Screenshots/chatlistscreen.png)
-![Signup Page](Screenshots/signup screen.png)
-![Chat Screen](Screenshots/chatscreen.png)
+### Main Page
+<img src="Screenshots/mainpage.png" width="200"/>
 
+  
+### Add Wish
+<img src="Screenshots/addwish.png" width="200"/>
+
+
+### Update Wish
+<img src="Screenshots/update.png" width="200"/>
+
+
+### Swipe to Delete
+<img src="Screenshots/swipedelete.png" width="200"/>
 
 
 
